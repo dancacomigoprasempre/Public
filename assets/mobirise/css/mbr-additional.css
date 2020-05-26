@@ -1615,24 +1615,8 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-s07HcbmnXg {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background: linear-gradient(45deg, #0f7699, #ff7f9f);
-}
-@media (min-width: 992px) {
-  .cid-s07HcbmnXg .mbr-figure {
-    padding-left: 4rem;
-  }
-}
-@media (max-width: 991px) {
-  .cid-s07HcbmnXg .mbr-figure {
-    padding-top: 3rem;
-  }
-}
 .cid-rZRafff7bH {
-  background: #149dcc;
-  background: linear-gradient(0deg, #149dcc, #ffffff);
+  background: #060606;
 }
 .cid-rZRafff7bH .video-block {
   margin: auto;
