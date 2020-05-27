@@ -1481,7 +1481,7 @@ section.lazy-placeholder:after {
 .cid-rPGh3AcmSM {
   padding-top: 60px;
   padding-bottom: 60px;
-  background: linear-gradient(45deg, #ffffff, #073b4c);
+  background: linear-gradient(45deg, #cccccc, #7f1933);
 }
 .cid-rPGh3AcmSM .btn {
   margin: 0 0 .5rem 0;
@@ -1616,7 +1616,8 @@ section.lazy-placeholder:after {
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
 .cid-rZRafff7bH {
-  background: #060606;
+  background: #149dcc;
+  background: linear-gradient(0deg, #149dcc, #ffffff);
 }
 .cid-rZRafff7bH .video-block {
   margin: auto;
@@ -1754,7 +1755,7 @@ section.lazy-placeholder:after {
 }
 .cid-rPFdfZpbkb .mbr-author-name {
   font-weight: bold;
-  color: #232;
+  color: #ba0e0e;
 }
 .cid-rPFdfZpbkb .mbr-author-desc {
   color: #232;
