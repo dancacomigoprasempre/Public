@@ -42,11 +42,11 @@ body {
 }
 .display-7 {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .display-7 > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 /* ---- Fluid typography for mobile devices ---- */
 /* 1.4 - font scale ratio ( bootstrap == 1.42857 ) */
@@ -548,11 +548,11 @@ a:hover {
 }
 .form-control {
   font-family: 'Rubik', sans-serif;
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-display: swap;
 }
 .form-control > .mbr-iconfont {
-  font-size: 1.6rem;
+  font-size: 1.92rem;
 }
 blockquote {
   border-color: #149dcc;
@@ -1478,13 +1478,38 @@ section.lazy-placeholder:after {
     padding-bottom: 1.5rem;
   }
 }
+.cid-rOBUKHynHH {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-rOBUKHynHH .mbr-section-subtitle {
+  color: #060606;
+  text-align: left;
+}
+.cid-rOBUKHynHH H2 {
+  text-align: center;
+}
 .cid-rPGh3AcmSM {
   padding-top: 60px;
   padding-bottom: 60px;
   background: linear-gradient(45deg, #cccccc, #7f1933);
 }
+.cid-rPGh3AcmSM .main {
+  flex-direction: row-reverse;
+  -webkit-flex-direction: row-reverse;
+}
+.cid-rPGh3AcmSM .main .mbr-section-btn {
+  text-align: right;
+}
 .cid-rPGh3AcmSM .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-rPGh3AcmSM H2 {
+  text-align: left;
+}
+.cid-rPGh3AcmSM H3 {
+  text-align: left;
 }
 .cid-rPFdvfeARF {
   padding-top: 90px;
@@ -1628,18 +1653,6 @@ section.lazy-placeholder:after {
     width: 100% !important;
   }
 }
-.cid-rOBUKHynHH {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rOBUKHynHH .mbr-section-subtitle {
-  color: #060606;
-  text-align: left;
-}
-.cid-rOBUKHynHH H2 {
-  text-align: center;
-}
 .cid-s03T3zrdjt {
   padding-top: 90px;
   padding-bottom: 90px;
@@ -1683,8 +1696,22 @@ section.lazy-placeholder:after {
     height: calc(100% - 56px);
   }
 }
+.cid-s0dIdZUG0C {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #efefef;
+}
+.cid-s0dIdZUG0C .mbr-section-subtitle {
+  color: #232323;
+}
+.cid-s0dIdZUG0C .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-s0dIdZUG0C H2 {
+  color: #767676;
+}
 .cid-rPApyAKp83 {
-  padding-top: 90px;
+  padding-top: 45px;
   padding-bottom: 90px;
   background-color: #efefef;
 }
